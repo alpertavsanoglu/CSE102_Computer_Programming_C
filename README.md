@@ -1,2 +1,2 @@
-# CSE102_Computer_Programming_C
+# CSE102 Computer Programming
 C Programming
